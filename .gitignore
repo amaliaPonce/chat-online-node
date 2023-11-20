@@ -1,0 +1,11 @@
+# macOS
+.DS_Store
+
+# Node.js
+node_modules/
+
+# Visual Studio Code
+.vscode/
+
+# Configuración local
+.env
